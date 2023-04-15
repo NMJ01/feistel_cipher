@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @authorNMJ01
+ * @author MLD
  */
 public class Tp_securite_Algo_chiffrement {
 
@@ -198,5 +198,4 @@ public class Tp_securite_Algo_chiffrement {
         }
         System.out.println("");
     }
-
 }
